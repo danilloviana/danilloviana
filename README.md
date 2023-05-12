@@ -4,6 +4,8 @@ Eu sou um desenvolvedor em fase de aprendizado apaixonado por tecnologia e progr
 
 👨🏻‍💻 Buscando uma oportunidade de estágio.
 🌱 Habilidades em desenvolvimento web utilizando HTML, CSS, JavaScript e estou aprendendo C# e Angular.
+
+
 🎓 Sistemas para Internet na Fatec Rubens Lara.
 
 ## Tecnologias
